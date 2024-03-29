@@ -11,7 +11,7 @@ Enables a payroll manager to view and manage employee payroll data.
 
 ## Usage
 
-https://pandord24.github.io/portfolio/
+https://pandord24.github.io/employee-payroll-tracker/
 
 By clicking the link provided, you can access the project hosted by github.
 ![portfolio website screen shot](./Assets/Capture.PNG)
