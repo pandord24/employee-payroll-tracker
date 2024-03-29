@@ -24,7 +24,7 @@ const displayAverageSalary = function (employeesArray) {
     salary += employeesArray[i].salary
   }
   const averageSalary = salary / employeesArray.length
-  console.log(`The average salary of ${employeesArray.length} employees is $${averageSalary}.00`)
+  console.log(`The average salary of ${employeesArray.length} employees is $${averageSalary}`)
 }
 
 // Select a random employee
